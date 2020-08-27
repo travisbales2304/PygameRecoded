@@ -23,4 +23,7 @@ class Game:
     def MenuScreen(self):
         pass
 
-    def 
+    def MenuHandler(self):
+        pass
+
+    
